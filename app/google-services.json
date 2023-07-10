@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79410977510",
+    "project_id": "proyectoaplicacionesmovi-454b7",
+    "storage_bucket": "proyectoaplicacionesmovi-454b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79410977510:android:c2fe7c2c38f665d9b1f927",
+        "android_client_info": {
+          "package_name": "com.carbajal.sesion13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79410977510-rousp8bup1174ujhhog0c6ekeapjqvnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Spvj_pZvHqCn35ShklDBpWeSGwMCETA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79410977510-rousp8bup1174ujhhog0c6ekeapjqvnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
